@@ -20,7 +20,7 @@ Users should be able to:
 ## My Solution
 
 - **Live Site:** [Add your live site URL here]
-- **Repository:** [Add your repository URL here]
+- **Repository:** [https://github.com/Allen1303/Single-Price-Grid-component]
 
 ---
 
